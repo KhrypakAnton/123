@@ -16,7 +16,7 @@
 <table>  <tr> <td> <caption> <thead> <tfoot> <tbody>
   
  текст
- <h1>  <h2> ....  <h5> <h6> 
+ ""<h1>  <h2> ....  <h5> <h6> 
  <p> <span> 
    
  списки
@@ -38,3 +38,4 @@
   background, border, color, display, float, font-family, font, margin, padding, max-height, max-width, opacity, position, right, text-align, text-decoration,
   vertical-align, z-index, @media
   ]
+""
