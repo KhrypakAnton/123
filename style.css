@@ -1,0 +1,28 @@
+body {
+    background: url("https://lh6.googleusercontent.com/TeGEEcTgqNGmWEIpbubRHy8377GE6dRP4ldWkTKuclEOMxpLv817yboZN8__4nuJFcUNkid5mN_IM6e8gPci1D8f-25CKp1AAUfR4xnPhkq5KgDJpoERJopl4UWil4xCrSCNnSco")no-repeat;
+    background-size: 100%;
+    background-color: aquamarine;
+}
+header {
+    background: url ("https://lh6.googleusercontent.com/TeGEEcTgqNGmWEIpbubRHy8377GE6dRP4ldWkTKuclEOMxpLv817yboZN8__4nuJFcUNkid5mN_IM6e8gPci1D8f-25CKp1AAUfR4xnPhkq5KgDJpoERJopl4UWil4xCrSCNnSco");
+    color: gold;
+    font-size: xx-large;
+    text-align: center;
+    word-spacing: 6px;
+    position: relative; top: 70px;
+}
+main {
+    font-size: x-large;
+    color:gold;
+}
+footer {
+    margin-left: 400px;
+    margin-top: 150px;
+    mix-blend-mode:multiply;
+}
+nav {
+    text-align: right;
+    position: relative; bottom: 210px;
+}
+
+    
